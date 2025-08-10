@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **personal projects & web apps**
 - 🌱 I’m currently learning **Laravel, PHP, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **[Email](mailto:your.email@example.com)** | **[LinkedIn](https://linkedin.com/in/yourprofile)**  
+- 📫 How to reach me: **nandagusniarpratama@gmail.com**  
 - ⚡ Fun fact: *I love turning coffee into code ☕💻*
 
 ---
